@@ -1,0 +1,46 @@
+body {
+    background: linen;
+    font-family: Consolas, 'Courier New';
+    color: black;
+}
+
+h1,
+h2 {
+    margin: 0;
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px 0;
+    border-bottom: 1px solid gainsboro;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+footer {
+    text-align: center;
+    margin: 20px 0;
+}
+
+footer span {
+    background: blue;
+    color: white;
+    padding: 1px 5px;
+}
+
+.blockquote {
+    border: 0 none;
+    padding: 0;
+    margin: 20px 0;
+    color: gray;
+}
+
+.skill-icon {
+    display: none;
+}
