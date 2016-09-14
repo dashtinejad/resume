@@ -44,3 +44,7 @@ footer span {
 .skill-icon {
     display: none;
 }
+
+strong {
+    background: thistle;
+}
