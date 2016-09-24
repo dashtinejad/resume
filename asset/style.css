@@ -46,5 +46,21 @@ footer span {
 }
 
 strong {
-    background: thistle;
+    color: palevioletred;
+}
+
+.skills-tag {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.skills-tag li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    background-color: thistle;
+    border-radius: 1px;
+    padding: 1px 5px;
+    margin-bottom: 5px;
 }
